@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./banner.png" alt="banner" width="100%" />
+  <img src="./banner.jpeg" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shamyun Ahmed</h1>
@@ -64,9 +64,6 @@
 
 <p align="center">
   <a href="mailto:shamunnahmed38@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-  <a href="https://portfolio-lovat-six-30.vercel.app/"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
 </p>
 
 ---
