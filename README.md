@@ -41,9 +41,9 @@
 
 ## 🚀 Featured Projects  
 
-- 📚 [Notes Taking App](https://github.com/shadow-blaxe-123/notes-app) – MERN-based note tracker  
-- 📦 [Parcel Delivery API](https://github.com/shadow-blaxe-123/parcel-api) – Backend with Express & MongoDB  
-- 💬 [Chat App](https://github.com/shadow-blaxe-123/chat-app) – Real-time app with Socket.io  
+- 📚 [Library Management App](https://github.com/Shadow-Blaxe-123/Library-Management-app-frontend) – MERN based book management for a library
+- 📦 [Parcel Delivery Platform](https://github.com/Shadow-Blaxe-123/Parcel-Delivery-System-FrontEnd) – Full-stack Mern web app similar to Pathao  
+- 💬 [Guidely](https://github.com/Shadow-Blaxe-123/Local-Guide-Platform-Frontend) – Connect tourists to local guides for personal tours
 
 ---
 
@@ -65,9 +65,6 @@
 <p align="center">
   <a href="mailto:shamunnahmed38@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
    <a href="https://portfolio-lovat-six-30.vercel.app/"><img src="https://img.icons8.com/color/48/000000/domain.png"/></a>
+   <a href="www.linkedin.com/in/shamyunahmed"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </p>
 </p>
-
----
-
-<p align="center">⭐️ Crafted with passion by <a href="https://github.com/shadow-blaxe-123">Shamyun Ahmed</a></p>
